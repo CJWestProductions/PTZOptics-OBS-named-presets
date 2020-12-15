@@ -9,7 +9,7 @@ Instead, I changed the medium version (with 9 images) and the large version (giv
 
 ![medium controller with preset names](Named-presets.png)
 
-The controllers will install with the names defaulted to just be the number (shown in the image of the large controller below), but these can be renamed to anything the user wants. However, space is limited to three lines of text, with about 8 characters per line. Is the name is set back to the preset number, the style will revert back to the original large number.
+The controllers will install with the names defaulted to just be the number (shown in the image of the large controller below), but these can be renamed to anything the user wants. However, space is limited to three lines of text, with about 8 characters per line. If the name is set back to the preset number, the style will revert back to the original large number.
 
 ![large controller with default preset numbers](Large-default-numbers.png)
 
