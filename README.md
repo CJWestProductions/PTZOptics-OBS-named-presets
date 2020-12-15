@@ -1,5 +1,7 @@
 # PTZOptics-OBS-named-presets
-DISCLAIMER: This is completely built on the existing PTZoptics Dockable OBS controllers. The vast majority of the code is ripped directly from PTZOptics. 
+DISCLAIMER: This is completely built on the existing PTZoptics Dockable OBS controllers. The vast majority of the code is ripped directly from PTZOptics.
+
+For install instructions, download the repository, and follow the guide PDF.
 
 The main purpose of these two controllers is to allow the user to easily rename presets, instead of having crude images that cannot be easily edited or changed. While setting up a system at a church, I realized there was a need to rename the presets, but with operators that were not super techy, I couldn't tell them "hey, just go to the install folder, remake a .png image, and then save it with the exact file name, or go and change the html code." 
 
